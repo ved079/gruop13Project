@@ -1,1 +1,1 @@
-export const BASE_URL = "https://gruop13-project.vercel.app/"
+export const BASE_URL = "https://finalhost.vercel.app"
